@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+.secao{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.topo{
+    background-color: rgba(0, 0, 0, 0.486);
+    color: gold;
+    position: fixed;
+    width: 100%;
+}
+.topo a{
+    color: gold;
+    margin: 10px;
+}
+.banner{
+    padding-top:0 ;
+}
+.banner-img{
+    width: 100%;
+}
+.paragrafo{
+    padding: 10px;
+    width: 550px;
+    margin: 10px auto;
+    text-align: justify;
+    font-size: 16px;
+
+}
+.texto-amarelo{
+    font-weight: bold;
+    color: rgb(185, 159, 8);
+}
+.imagem{
+    border-radius: 7px;
+    width: 550px;
+}
+h2{
+    font-weight: bold;
+}
+.consultores a{
+    color:rgb(185, 159, 8);
+}
+.contato a{
+    color:rgb(185, 159, 8);
+}
+.contato{
+    padding: 20px;
+    margin: 20px;
+}
+.contato p{
+    border-radius: 5px;
+    color: white;
+    margin:15px auto;
+    padding: 3px;
+    width: 800px;
+    background-color: black;
+}
+.footer{
+    text-align: center;
+}
